@@ -1,0 +1,13 @@
+   0 pwd
+   1 cd /tmp
+   2 touch /tmp/script.sh
+   3 chmod 744 script.sh
+   4 ls -al
+   5 nano script.sh
+   6 cat /tmp/script.sh
+   7 ls -al
+   8 crontab -e
+   9 ls -al
+  10 cat /tmp/script.sh
+  11 history
+  12 history > history_09.txt
